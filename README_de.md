@@ -4,78 +4,79 @@
 
 ---
 
-## 📖 Was ist das?
-
-Dies ist kein Manifest.  
-Keine wissenschaftliche Arbeit.  
-Keine Theorie.  
-Noch nicht.
+## Was ist es?
 
 **Feldnotizen zur Memetik** ist ein offenes Notizbuch —  
-ein Ort, um laut über Memes, Bedeutung und die seltsame Maschinerie der Kultur nachzudenken.
+ein Ort, um laut über Meme, und wie sie unsere Welt gestalten nachzudenken.
+Wie sie uns die Illusion schaffen selbst zu denken, aber anderen Zwecken dienen.
+Wie wir das erkennen und entsprechend handeln könnten.
 
-Hier sammeln sich Essays, Gedankenexperimente, Metaphern und Diagramme wie Sediment,  
-zeichnen die Entstehung einer Disziplin nach, die noch nicht ganz existiert —  
-aber vielleicht existieren sollte.
+Es ist ein Logbuch und eine Klärungstafel.
+Hier erkunde ich und erschaffe. Ideen, Theorien.
+Ich versuche Meme selbst zu verstehen, in all ihren Ausprägungen und Beziehungen.
+Ich untersuche Religion, Politik, Geschichte und alles was ich als Memetik-Relevant erkenne.
+
+Hier entstehen
+- Entwürfe von wissenschaftlichen Papieren
+- Manifeste für Teilaspekte von Memetik-relevanten Themen (z.B. Demokratie, Schulbildung, und mehr)
+- ein Glossar zu allen was ich memetisch indentifizieren konnte, sowohl ausführlich, als auch in nachschlagbarer Lexikon-Form
+- Essays mit Gedankenexperimenten
 
 ---
 
-## 🧠 Warum Memetik?
+## Warum Memetik?
 
-Weil Kultur eine Physik hat.  
-Weil Geschichten sich entwickeln.  
-Weil Ideen sich replizieren, mutieren, konkurrieren —  
-und manchmal **gewinnen**, egal ob sie wahr sind oder nicht.
+Weil wir denken, dass wir denken, aber eigentlich Meme uns denken.
+Weil wir uns in Meme verfangen und es nicht schaffen übergeordnet die Mechanismen von Ideen und Memen zu durschauen.
+Weil uns zusteht rationale Entscheidungen treffen zu dürfen jenseits der eigenen Kulturkreise.
 
-Und doch bleibt Memetik ein fragiler Begriff.  
+Weil wir in einer Welt leben, in der Globalisierung und Technokratisierung Meme übermächtig machen – und wir trotzdem handeln wollen und müssen.
+
+
+Und doch bleibt Memetik ein fragiler Begriff:  
 Zu metaphorisch für die Biologie.  
 Zu systemisch für die Geisteswissenschaften.  
 Zu schwer fassbar für die Sozialwissenschaften.  
 Zu verlockend für Ideologen.
 
-**Dieses Projekt wagt es, Memetik ernst zu nehmen — ohne Dogma.**  
+**Dieses Projekt wagt es, Memetik ernst zu nehmen – ohne Dogma.**  
 Nicht als Hype.  
 Nicht als Gesamttheorie.  
-Sondern als *Linse* — eine Möglichkeit, menschliches Verhalten, Glauben und Struktur  
+Sondern als *Linse* – eine Möglichkeit, menschliches Verhalten, Glauben und Strukturen  
 so zu betrachten, als würden sie von Kräften **jenseits der Absicht** geformt.
 
 ---
 
-## 🎯 Was ist das Ziel?
+## Was ist das Ziel?
 
-Langsam, zweifelnd und mit Sorgfalt —  
+Langsam, zweifelnd und mit Sorgfalt –  
 einen Gedankenkorpus aufzubauen, der eines Tages die **Grundlage für einen akademisch diskutierbaren Rahmen für Memetik** bilden könnte.
 
 Dies ist **kein** peer-reviewtes Projekt.  
-Es werden keine Autoritätsansprüche erhoben.  
-Aber es wird von der Überzeugung geleitet, dass:
-
-> 🧬 *Kultur entwickelt sich.*  
-> 🧭 *Wir können sie erforschen.*  
-> 🛠️ *Und wir können Werkzeuge bauen, um sie verantwortungsvoll zu gestalten.*
+Es werden keine Autoritätsansprüche erhoben.
 
 ---
 
-## 📚 Was ist enthalten?
+## Was ist enthalten?
 
-- `concepts/` – zentrale Essays und memetische Beobachtungen  
-- `formats/` – Vorlagen für Märchen, Manifeste, Diagramme usw.  
-- `fieldnotes/` – reflektierende Texte und laufende Erkundungen  
-- `meta/` – Motivation, Struktur und philosophischer Kontext  
-- `languages/` – Raum für zukünftige mehrsprachige Zugänglichkeit  
-- `.github/workflows/` – Platzhalter für Übersetzungs- oder Exportautomatisierung
+- "papers/" – Papiere für akademisch formalisierte Niederlegungen der Theorie
+- "unfolded/" – Skizzen dazu, was Memetik ist
+- "glossary/" – ein Wörterbuch memetischer Begriffe und Konzepte
+- "case_studies/" – Versuche, memetische Analysen an prominenten und randständigen Themen durchzuführen
+- "essays/" – Anwendung memetischer Prinzipien auf Alltagsprobleme
 
 ---
 
-## 🌍 Sprache
+## Sprache
 
-Die Hauptarbeitssprache ist **Englisch**.  
-Weitere Versionen können im Laufe der Zeit hinzugefügt werden, darunter **Deutsch**, **Arabisch** und **Französisch**.  
+Die Hauptarbeitssprache ist **Englisch**, aber ich schreibe in **Deutsch**. Meine Texte werden durch KIs / LLMs übersetzt.    
+
+Weitere Versionen können im Laufe der Zeit hinzugefügt werden, darunter **Arabisch** und **Französisch**.  
 Dies ist kein Übersetzungsprojekt, sondern ein *spracheninkludierendes*.
 
 ---
 
-## 🤝 Zusammenarbeit?
+## Zusammenarbeit?
 
 Dies ist (noch) keine öffentliche Initiative.  
 Aber das Projekt wurde mit Offenheit im Sinn gestaltet.  
@@ -88,12 +89,6 @@ Nur eine Person, die laut nachdenkt — und hofft, dass andere es vielleicht auc
 
 ---
 
-## 🧾 Lizenz
+## Lizenz
 
 MIT-Lizenz (vorerst). Fühle dich frei zu remixen, zu attribuieren und weiterzudenken.
-
----
-
-> „In einer Zeit von Echokammern und algorithmischen Illusionen  
-> könnte das Verständnis, wie Memes unser Denken formen, eine der dringendsten Aufgaben sein, die wir haben.“  
-> – der Autor
